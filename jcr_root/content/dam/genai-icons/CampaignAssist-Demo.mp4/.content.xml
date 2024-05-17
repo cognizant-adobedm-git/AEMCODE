@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:mixinTypes="[mix:referenceable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="083a4a02-fba3-455f-8c1f-5f002b88385a">
+    <jcr:content
+        dam:assetState="processed"
+        jcr:lastModified="{Date}2024-04-17T04:51:40.134Z"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:extracted="{Date}2024-04-17T04:51:37.918Z"
+            dam:sha1="eea5224020513e6973a2073d6e8e0a81032ade16"
+            dam:size="{Long}157372752"
+            dc:format="video/mp4"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            tiff:Orientation="{Long}1"
+            xmp:CreateDate="{Date}1904-01-01T00:00:00.000Z"
+            xmp:ModifyDate="{Date}1904-01-01T00:00:00.000Z">
+            <xmpDM:duration
+                jcr:primaryType="nt:unstructured"
+                xmpDM:scale="1/1000"
+                xmpDM:value="{Long}295377"
+                xmpNodeType="xmpStruct"/>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>
