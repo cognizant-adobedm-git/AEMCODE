@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>FileVault Package Properties</comment>
+<entry key="description"></entry>
+<entry key="packageType">mixed</entry>
+<entry key="lastWrappedBy">admin</entry>
+<entry key="packageFormatVersion">2</entry>
+<entry key="group">my_packages</entry>
+<entry key="created">2024-05-16T11:05:08.373Z</entry>
+<entry key="lastModifiedBy">admin</entry>
+<entry key="buildCount">1</entry>
+<entry key="lastWrapped">2024-05-16T11:05:08.285Z</entry>
+<entry key="version"></entry>
+<entry key="dependencies"></entry>
+<entry key="createdBy">admin</entry>
+<entry key="name">Gen AI PAckage</entry>
+<entry key="lastModified">2024-05-16T11:05:08.285Z</entry>
+</properties>

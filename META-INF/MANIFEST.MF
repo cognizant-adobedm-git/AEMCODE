@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Content-Package-Id: my_packages:Gen AI PAckage
+Content-Package-Roots: /apps/aem-test-project/components/genimagev5,/con
+ f/Gen AI Templates,/content/we-retail/gen-ai-image,/content/dam/genai-i
+ cons,/apps/aem-test-project/components/genAILandingPage
+Content-Package-Type: mixed
+
